@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Stamina Online Auto Typer
-// @namespace    https://github.com/mopscode/stamina-autotyper
+// @namespace    https://github.com/xreamm1/stamina-autotyper
 // @version      1.1.0
 // @description  Автоматически печатает текст на stamina-online.com с настраиваемой скоростью. Авто-старт пробелом, поддержка русской и латинской раскладок.
-// @author       @mopscode
+// @author       @xre1mm
 // @match        *://stamina-online.com/*
 // @match        *://*.stamina-online.com/*
 // @grant        GM_setValue
@@ -749,7 +749,7 @@
                 <span id="sa-counter">0 зн.</span>
             </div>
             <div style="font-size:11px;opacity:.5;border-top:1px solid #2b2f3a;padding-top:6px;">
-                F8 — старт/стоп&nbsp;·&nbsp;F9 — сброс&nbsp;·&nbsp;@mopscode
+                F8 — старт/стоп&nbsp;·&nbsp;F9 — сброс&nbsp;·&nbsp;@xre1mm
             </div>
         </div>
     </div>`;
